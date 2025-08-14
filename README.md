@@ -41,7 +41,7 @@ pip install pandas numpy scikit-learn matplotlib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ashray11/Santander-Customer-Satisfaction.git
+   git clone https://github.com/vinitudasi/santander-customer-satisfaction.git
    cd Santander-Customer-Satisfaction
    ```
 
